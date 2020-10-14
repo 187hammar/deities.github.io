@@ -1,0 +1,68 @@
+C:\Users\Teddy Bear\Documents\Programming world\C# 2k20\DeitiesClothings\bin\Debug\DeitiesClothings.exe.config
+C:\Users\Teddy Bear\Documents\Programming world\C# 2k20\DeitiesClothings\bin\Debug\DeitiesClothings.exe
+C:\Users\Teddy Bear\Documents\Programming world\C# 2k20\DeitiesClothings\bin\Debug\DeitiesClothings.pdb
+C:\Users\Teddy Bear\Documents\Programming world\C# 2k20\DeitiesClothings\obj\Debug\DeitiesClothings.csprojAssemblyReference.cache
+C:\Users\Teddy Bear\Documents\Programming world\C# 2k20\DeitiesClothings\obj\Debug\DeitiesClothings.Form1.resources
+C:\Users\Teddy Bear\Documents\Programming world\C# 2k20\DeitiesClothings\obj\Debug\DeitiesClothings.Properties.Resources.resources
+C:\Users\Teddy Bear\Documents\Programming world\C# 2k20\DeitiesClothings\obj\Debug\DeitiesClothings.csproj.GenerateResource.cache
+C:\Users\Teddy Bear\Documents\Programming world\C# 2k20\DeitiesClothings\obj\Debug\DeitiesClothings.csproj.CoreCompileInputs.cache
+C:\Users\Teddy Bear\Documents\Programming world\C# 2k20\DeitiesClothings\obj\Debug\DeitiesClothings.exe
+C:\Users\Teddy Bear\Documents\Programming world\C# 2k20\DeitiesClothings\obj\Debug\DeitiesClothings.pdb
+C:\Users\Teddy Bear\Documents\Programming world\C# 2k20\DeitiesClothings\obj\Debug\DeitiesClothings.DesignerOrderScreen.resources
+C:\Users\Teddy Bear\Documents\Programming world\C# 2k20\DeitiesClothings\obj\Debug\DeitiesClothings.ManagementScreen.resources
+C:\Users\Teddy Bear\Documents\Programming world\C# 2k20\DeitiesClothings\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Teddy Bear\Documents\Programming world\C# 2k20\DeitiesClothings\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Teddy Bear\Documents\Programming world\C# 2k20\DeitiesClothings\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Teddy Bear\Documents\Programming world\C# 2k20\DeitiesClothings\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Teddy Bear\Documents\Programming world\C# 2k20\DeitiesClothings\bin\Debug\Twilio.dll
+C:\Users\Teddy Bear\Documents\Programming world\C# 2k20\DeitiesClothings\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Teddy Bear\Documents\Programming world\C# 2k20\DeitiesClothings\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Teddy Bear\Documents\Programming world\C# 2k20\DeitiesClothings\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Teddy Bear\Documents\Programming world\C# 2k20\DeitiesClothings\bin\Debug\Twilio.xml
+C:\Users\Teddy Bear\Documents\Programming world\C# 2k20\DeitiesClothings\obj\Debug\DeitiesClothings.csproj.CopyComplete
+C:\Users\Teddy Bear\Documents\Programming world\C# 2k20\DeitiesClothings\bin\Debug\Clothes.mdf
+C:\Users\Teddy Bear\Documents\Programming world\C# 2k20\DeitiesClothings\bin\Debug\Clothes_log.ldf
+C:\Users\Teddy Bear\Documents\Programming world\C# 2k20\DeitiesClothings\bin\Debug\Customer.mdf
+C:\Users\Teddy Bear\Documents\Programming world\C# 2k20\DeitiesClothings\bin\Debug\CustomerOrder.mdf
+C:\Users\Teddy Bear\Documents\Programming world\C# 2k20\DeitiesClothings\bin\Debug\CustomerOrder_log.ldf
+C:\Users\Teddy Bear\Documents\Programming world\C# 2k20\DeitiesClothings\bin\Debug\Customer_log.ldf
+C:\Users\Teddy Bear\Documents\Programming world\C# 2k20\DeitiesClothings\bin\Debug\Order.mdf
+C:\Users\Teddy Bear\Documents\Programming world\C# 2k20\DeitiesClothings\bin\Debug\Order_log.ldf
+C:\Users\Teddy Bear\Documents\Programming world\C# 2k20\DeitiesClothings\bin\Debug\Transaction.mdf
+C:\Users\Teddy Bear\Documents\Programming world\C# 2k20\DeitiesClothings\bin\Debug\TransactionDetails.mdf
+C:\Users\Teddy Bear\Documents\Programming world\C# 2k20\DeitiesClothings\bin\Debug\TransactionDetails_log.ldf
+C:\Users\Teddy Bear\Documents\Programming world\C# 2k20\DeitiesClothings\bin\Debug\Transaction_log.ldf
+D:\DeitiesClothings\bin\Debug\Clothes.mdf
+D:\DeitiesClothings\bin\Debug\Clothes_log.ldf
+D:\DeitiesClothings\bin\Debug\Customer.mdf
+D:\DeitiesClothings\bin\Debug\CustomerOrder.mdf
+D:\DeitiesClothings\bin\Debug\CustomerOrder_log.ldf
+D:\DeitiesClothings\bin\Debug\Customer_log.ldf
+D:\DeitiesClothings\bin\Debug\Order.mdf
+D:\DeitiesClothings\bin\Debug\Order_log.ldf
+D:\DeitiesClothings\bin\Debug\Transaction.mdf
+D:\DeitiesClothings\bin\Debug\TransactionDetails.mdf
+D:\DeitiesClothings\bin\Debug\TransactionDetails_log.ldf
+D:\DeitiesClothings\bin\Debug\Transaction_log.ldf
+D:\DeitiesClothings\bin\Debug\DeitiesClothings.exe.config
+D:\DeitiesClothings\bin\Debug\DeitiesClothings.exe
+D:\DeitiesClothings\bin\Debug\DeitiesClothings.pdb
+D:\DeitiesClothings\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\DeitiesClothings\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\DeitiesClothings\bin\Debug\Newtonsoft.Json.dll
+D:\DeitiesClothings\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\DeitiesClothings\bin\Debug\Twilio.dll
+D:\DeitiesClothings\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\DeitiesClothings\bin\Debug\Newtonsoft.Json.xml
+D:\DeitiesClothings\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\DeitiesClothings\bin\Debug\Twilio.xml
+D:\DeitiesClothings\obj\Debug\DeitiesClothings.csprojAssemblyReference.cache
+D:\DeitiesClothings\obj\Debug\DeitiesClothings.DesignerOrderScreen.resources
+D:\DeitiesClothings\obj\Debug\DeitiesClothings.Form1.resources
+D:\DeitiesClothings\obj\Debug\DeitiesClothings.ManagementScreen.resources
+D:\DeitiesClothings\obj\Debug\DeitiesClothings.Properties.Resources.resources
+D:\DeitiesClothings\obj\Debug\DeitiesClothings.csproj.GenerateResource.cache
+D:\DeitiesClothings\obj\Debug\DeitiesClothings.csproj.CoreCompileInputs.cache
+D:\DeitiesClothings\obj\Debug\DeitiesClothings.csproj.CopyComplete
+D:\DeitiesClothings\obj\Debug\DeitiesClothings.exe
+D:\DeitiesClothings\obj\Debug\DeitiesClothings.pdb
