@@ -37,18 +37,7 @@ namespace DeitiesClothings
             btnSaveAndSend.BackColor = Color.Gold;
             btnSaveAndSend.ForeColor = Color.Black;
         }
-
-        public void sendsms()
-        {
-            const string accountSid = "ACc678faa4788a073936b6d3dbb1c9dc02";
-            const string authToken = "c6661bcde0bcc8967db7cf86a9b67fb5";
-            TwilioClient.Init(accountSid,authToken);
-            MessageResource.Create(
-                to: new Twilio.Types.PhoneNumber("+27624406016"),
-                from: new Twilio.Types.PhoneNumber("+18053015996"),
-                body: "Test from Twilio"
-                );
-        }
+        
         private void insertOrder(string desc, string measure, double cost)
         {
             try
@@ -90,43 +79,6 @@ namespace DeitiesClothings
             {
                 MessageBox.Show("ERROR: \n\n\n" + error);
             }
-        }
-        private void sendMail()
-        {
-            SmtpClient Client = new SmtpClient()
-            {
-                Host = "smtp.gmail.com",
-                Port = 587,
-                EnableSsl = true,
-                DeliveryMethod = SmtpDeliveryMethod.Network,
-                UseDefaultCredentials = false,
-                Credentials = new NetworkCredential()
-                {
-                    UserName = "teddybearx187@gmail.com",
-                    Password = "gxisuffjpbnogxha"
-                }
-            };
-            MailAddress FromEmail = new MailAddress("teddybearx187@gmail.com", "Teddy Bear ARtisT-X");
-            MailAddress ToEmail = new MailAddress("tmponya187@hotmail.com", "Test");
-            MailMessage Message = new MailMessage()
-            {
-                From = FromEmail,
-                Subject = "Test 2",
-                Body = "Test2"
-            };
-            Message.To.Add(ToEmail);
-            Client.SendCompleted += Client_SendCompleted;
-            Client.SendMailAsync(Message);
-        }
-
-        private void Client_SendCompleted(object sender, AsyncCompletedEventArgs e)
-        {
-            if (e.Error != null)
-            {
-                MessageBox.Show("Error Happening \n" + e.Error.Message, "Error");
-                return;
-            }
-            MessageBox.Show("Message Sent", "Done");
         }
 
         private void btnSaveAndSend_MouseEnter(object sender, EventArgs e)
